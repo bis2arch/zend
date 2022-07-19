@@ -1,0 +1,12 @@
+{
+    "name": "bis2arch/zend",
+    "description": "Magento 1 - Zend framework library",
+    "type": "library",
+    "license": "OSL-3.0",
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
